@@ -4,7 +4,7 @@ import { RiShoppingCartLine } from "react-icons/ri";
 import { ToastContainer, toast } from "react-toastify";
 
 const Hero = () => {
-  const textToCopy = "ContractAddress";
+  const textToCopy = "BULLyS9NxPQE9BWV4p15VThM9QqPkWyGDAHTmEc5VbEs";
   const handleCopy = () => {
     navigator.clipboard
       .writeText(textToCopy)
@@ -42,12 +42,12 @@ const Hero = () => {
         <img
           src="assets/boolsh_round.png"
           alt="Logo"
-          className="w-auto h-[15%] lg:h-[35%]"
+          className="w-auto h-[20%] lg:h-[35%]"
         />
         <img
           src="assets/boolsh_sol.png"
           alt="Logo"
-          className="-mt-12 lg:-mt-36 w-auto h-[25%] lg:h-[60%]"
+          className="-mt-12 lg:-mt-36 w-auto h-[35%] lg:h-[60%]"
         />
         <div className="flex lg:flex-row flex-col gap-2 lg:gap-4 -mt-6 lg:-mt-24 mb-4 mx-auto">
           <div className="text-black bg-[#FFF0D1] px-2 py-2 lg:px-6 lg:py-4 rounded-full text-xs sm:text-sm md:text-2xl lg:text-3xl font-bold z-10 mb-0 lg:mb-10 max-w-[250px] sm:max-w-[350px] md:max-w-[450px] lg:max-w-5xl xl:max-w-6xl truncate overflow-hidden">

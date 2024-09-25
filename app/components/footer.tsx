@@ -29,8 +29,8 @@ const Footer = () => {
 
         <div className="flex justify-center items-center md:justify-end space-x-4 mt-4">
           <div>Follow Us</div>
-          {/* <Link
-            to="https://t.me/your-telegram"
+          <Link
+            to="https://t.me/bulonsolana"
             target="_blank"
             rel="noopener noreferrer"
             className="w-12 h-12 bg-blue-500 text-white rounded-full flex items-center justify-center"
@@ -40,9 +40,9 @@ const Footer = () => {
               alt="Logo"
               className="w-[100%] h-auto"
             />
-          </Link> */}
+          </Link>
           <Link
-            to="https://x.com/your-x"
+            to="https://x.com/BULONSOLANA"
             target="_blank"
             rel="noopener noreferrer"
             className="w-12 h-12 text-white rounded-full flex items-center justify-center"
