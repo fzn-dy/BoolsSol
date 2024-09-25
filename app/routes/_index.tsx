@@ -11,10 +11,10 @@ import Partnership from "~/components/partnership";
 export const meta: MetaFunction = () => {
   return [
     {
-      title: "$BUL on Solana",
+      title: "$BUL x Solana",
       description: "Welcome to $BUL Community!",
     },
-    { name: "$BUL on Solana", content: "Welcome to $BUL Community!" },
+    { name: "$BUL x Solana", content: "Welcome to $BUL Community!" },
   ];
 };
 

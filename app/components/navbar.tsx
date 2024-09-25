@@ -78,7 +78,11 @@ const Navbar = () => {
         </ul>
 
         {/* Right Button - visible on large screens */}
-        <Link to="#" target="_blank" rel="noopener noreferrer">
+        <Link
+          to="https://t.me/bulonsolana"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           <button className="hidden lg:block text-md lg:text-2xl font-bold hover:scale-105 transform transition-transform text-white px-6 py-2 lg:py-3 rounded-full bg-gradient-to-r from-violet-500 to-emerald-300 hover:bg-[#505aa0] shadow-xl border-2 border-black">
             Join Community
           </button>
@@ -123,7 +127,7 @@ const Navbar = () => {
             </li>
           </ul>
           <Link
-            to="#"
+            to="https://t.me/bulonsolana"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center justify-center"

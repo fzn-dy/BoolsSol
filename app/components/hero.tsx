@@ -4,7 +4,7 @@ import { RiShoppingCartLine } from "react-icons/ri";
 import { ToastContainer, toast } from "react-toastify";
 
 const Hero = () => {
-  const textToCopy = "BULLyS9NxPQE9BWV4p15VThM9QqPkWyGDAHTmEc5VbEs";
+  const textToCopy = "Contract Addres";
   const handleCopy = () => {
     navigator.clipboard
       .writeText(textToCopy)
