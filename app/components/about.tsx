@@ -28,8 +28,8 @@ const About = () => {
             competitions, promoting growth and enjoyment together with $BUL.
           </p>
           <div className="flex space-x-4 mb-2">
-            {/* <Link
-              to="https://t.me/your-telegram"
+            <Link
+              to="https://t.me/bulonsolana"
               target="_blank"
               rel="noopener noreferrer"
               className="w-12 h-12 bg-blue-500 text-white rounded-full flex items-center justify-center"
@@ -39,9 +39,9 @@ const About = () => {
                 alt="Logo"
                 className="w-[100%] h-auto"
               />
-            </Link> */}
+            </Link>
             <Link
-              to="https://x.com/your-x"
+              to="https://x.com/BULONSOLANA"
               target="_blank"
               rel="noopener noreferrer"
               className="w-12 h-12 text-white rounded-full flex items-center justify-center"
