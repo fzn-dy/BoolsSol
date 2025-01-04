@@ -49,7 +49,7 @@ npm start
 
 ## Preview
 
-![home](https://github.com/fzn-dy/BoolsSol/blob/main/public/assets/homeviewbools.mp4)
+![home](https://github.com/fzn-dy/BoolsSol/blob/main/public/assets/homeviewbools.png)
 ![about](https://github.com/fzn-dy/BoolsSol/blob/main/public/assets/aboutviewbools.png)
 ![tokenomics](https://github.com/fzn-dy/BoolsSol/blob/main/public/assets/tokenomicsviewbools.png)
 ![partnerships](https://github.com/fzn-dy/BoolsSol/blob/main/public/assets/partnershipviewbools.png)
