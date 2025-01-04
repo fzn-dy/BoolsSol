@@ -1,8 +1,31 @@
-# Welcome to Remix!
+<h1 align="center">Boolsonsol</h1>
+<p align="center"><img src="https://github.com/fzn-dy/BoolsSol/blob/main/public/assets/boolsh.png" width="100px" height="100px"></p>
+<p align="center"><img src="https://img.shields.io/badge/Build%20with-React%20JS-61dbfb?style=popout&logo=react"></p>
+<p align="center"><img src="https://img.shields.io/badge/Build%20with-Tailwind%20CSS-06B6D4?style=popout&logo=tailwindcss"></p>
+<p align="center"><img src="https://img.shields.io/badge/Build%20with-TypeScript-3178C6?style=popout&logo=typescript"></p>
 
-- 📖 [Remix docs](https://remix.run/docs)
+## Contents
 
-## Development
+- [Description](#description)
+- [Built With](#built-with)
+- [Installation](#installation)
+- [Preview](#preview)
+- [Credits](#credits)
+
+## Description
+Boolssol is a token operating within the Solana ecosystem.
+
+
+## Built With
+
+* [React JS](https://reactjs.org/)
+* [TypeScript](https://www.typescriptlang.org/)
+* [Tailwind CSS](https://tailwindcss.com/)
+* [Vite](https://vitejs.dev/)
+
+## Installation
+
+### Development
 
 Run the dev server:
 
@@ -10,7 +33,7 @@ Run the dev server:
 npm run dev
 ```
 
-## Deployment
+### Deployment
 
 First, build your app for production:
 
@@ -24,17 +47,13 @@ Then run the app in production mode:
 npm start
 ```
 
-Now you'll need to pick a host to deploy it to.
+## Preview
 
-### DIY
+![home](https://github.com/fzn-dy/BoolsSol/blob/main/public/assets/homeviewbools.mp4)
+![about](https://github.com/fzn-dy/BoolsSol/blob/main/public/assets/aboutviewbools.png)
+![tokenomics](https://github.com/fzn-dy/BoolsSol/blob/main/public/assets/tokenomicsviewbools.png)
+![partnerships](https://github.com/fzn-dy/BoolsSol/blob/main/public/assets/partnershipviewbools.png)
+![footer](https://github.com/fzn-dy/BoolsSol/blob/main/public/assets/footerviewbools.png)
 
-If you're familiar with deploying Node applications, the built-in Remix app server is production-ready.
-
-Make sure to deploy the output of `npm run build`
-
-- `build/server`
-- `build/client`
-
-## Styling
-
-This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever css framework you prefer. See the [Vite docs on css](https://vitejs.dev/guide/features.html#css) for more information.
+## Credits
+This project is the result of a team collaboration, and I would like to give credit to [Abdul Wasi](https://github.com/work0x) for their contributions. To see all our activities from the beginning of the website development process, please visit our repository at [Wx-BoolshSol](https://github.com/work0x/Wx-BoolshSol).
